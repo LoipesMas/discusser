@@ -1,5 +1,5 @@
 # discusser
-Simple discussion service
+Simple discussion service api
 
 Made using django and django rest framework
 
